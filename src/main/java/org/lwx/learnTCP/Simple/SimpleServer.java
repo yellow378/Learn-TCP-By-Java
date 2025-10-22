@@ -1,4 +1,4 @@
-package org.lwx.learnTCP;
+package org.lwx.learnTCP.Simple;
 
 import java.io.BufferedReader;
 import java.io.IOException;
